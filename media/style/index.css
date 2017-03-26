@@ -1,0 +1,65 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: url(/media/images/background-index.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: #d9f9f1;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 100px;
+    font-size: 75px;
+}
+
+.description {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) center center no-repeat;
+    width: 50%;
+    color: white;
+  
+    text-align: center;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.main {
+    border-right: 1px solid #59b247;
+    border-left: 1px solid #59b247;
+    width: 85%;
+}
+
+.options {
+    margin-top: 200px;
+}
+
+.reg {
+    height: 250px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+
+i.fa {
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 15px;
+}
+
+a.btn-success {
+    color: black;
+    cursor: pointer;
+    background-color: aliceblue;
+}
+
+a.btn-success:hover {
+    color: white;
+    cursor: pointer;
+}

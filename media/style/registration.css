@@ -1,0 +1,35 @@
+.error {
+    color: #ff9999;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.submit {
+    magrin-top: 15px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 15px;
+    border: 2px solid #99ff99;
+    padding: 25px;
+    background-color: white;
+}
+
+#reg-title {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 15px;
+    background-color: #000066;
+    font-size: 33px;
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+}
+
+body {
+    background-color: #9999ff;
+}

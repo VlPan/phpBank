@@ -1,0 +1,24 @@
+.greet {
+    font-size: 33px;
+    text-align: center;
+}
+
+#create_acc_offer {
+    display: block;
+    padding: 25px;
+    border: 2px solid;
+    width: 300px;
+    height: 120px;
+    text-decoration: none;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#user_agreement {
+    margin-top: 45px;
+    font-size: 15px;
+    padding: 25px;
+    boder: 1px solid;
+    background-color: #ccc;
+    display: none;
+}
